@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan7945
-- 👀 I’m interested in C/C++ development
+- 👀 I’m interested in C/C++ and Java development
 - 🌱 I’m currently learning C/C++ 
 - 💞️ I’m looking to collaborate on projects that accept begginers.
 - 📫 How to reach me daniel.0712020@gmail.com
